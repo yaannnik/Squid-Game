@@ -1,2 +1,2 @@
-# Squid_Game
+# Squid-Game
 Squid Game Simulation
